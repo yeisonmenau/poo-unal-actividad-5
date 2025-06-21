@@ -22,7 +22,7 @@ public class VentanaEjercicio2 extends JFrame implements ActionListener {
     private Container contenedor;
 
     public VentanaEjercicio2(){
-        setTitle("Ejercicio 1");
+        setTitle("Ejercicio 2");
         setSize(500, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
